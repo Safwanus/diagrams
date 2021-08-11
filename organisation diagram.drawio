@@ -1,1 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T06:04:46.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="14.9.0" etag="qs7NA7l90k-dbCUQ2__B" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-11T06:25:32.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="KNd32TFhUkWrLYxJBr5F" version="14.9.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Be ys Cloud" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="910" height="730" as="geometry" />
+        </mxCell>
+        <UserObject label="Christophe PRUGNAUD" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="355" y="50" width="200" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Paul PINAULT" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="580" y="170" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Henrique LOPES" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="140" y="170" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-12" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="10" y="270" width="230" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+          <mxGeometry x="20" width="190" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-7" value="&lt;b&gt;Architecture &amp;amp; infrastructure&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+          <mxGeometry y="20" width="230" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Mathieu SIVADE" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-8">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+            <mxGeometry x="30" y="60" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Aurélien SEABRA" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-9">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+            <mxGeometry x="30" y="150" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thomas FOURNET" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+            <mxGeometry x="30" y="240" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Anthony BIEUYLAIGUE" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-12">
+            <mxGeometry x="30" y="330" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-14" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="230" y="270" width="230" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+          <mxGeometry x="20" width="190" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-16" value="&lt;b&gt;Développement Cloud&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+          <mxGeometry y="20" width="230" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Florian FORESTIER" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-17">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+            <mxGeometry x="30" y="60" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Claude DIOUDONNAT" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+            <mxGeometry x="30" y="150" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Nicolas BIRNBAUM" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+            <mxGeometry x="30" y="240" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Safouane BENELKADI" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-14">
+            <mxGeometry x="30" y="330" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-22" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="450" y="270" width="230" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+          <mxGeometry x="20" width="190" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-24" value="&lt;b&gt;Architecture &amp;amp; Infrastructure&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+          <mxGeometry y="20" width="230" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Michaël MAUGER" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-25">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+            <mxGeometry x="30" y="60" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Arnaud BLANDAMOUR" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-26">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+            <mxGeometry x="30" y="150" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Sylvain DESGRAIS" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-27">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+            <mxGeometry x="30" y="240" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Stéphane COUSSY" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-28">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-22">
+            <mxGeometry x="30" y="330" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-29" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="670" y="270" width="230" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-29">
+          <mxGeometry x="20" width="190" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pjYEXD32Xy4nOFSv0eAo-31" value="&lt;b&gt;Gestion du datacenter&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-29">
+          <mxGeometry y="20" width="230" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Manuel FREIRE" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="pjYEXD32Xy4nOFSv0eAo-32">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="pjYEXD32Xy4nOFSv0eAo-29">
+            <mxGeometry x="30" y="60" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
